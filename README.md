@@ -2,13 +2,11 @@
 
 I am Taha Imran, currently pursuing my Bachelor's degree virtually from Pakistan.  
 I’m a passionate **Front-End Developer** and a dedicated self-learner who loves building modern, responsive, and user-friendly web applications.
-
+<br/>
+<br/>
 I enjoy working with technologies like **HTML, CSS, JavaScript, React.js, Next.js, TailwindCSS, and Bootstrap**.  
 My focus is on creating clean UI, smooth user experiences, and real-world projects that improve my skills day by day.
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=TahaImran" alt="TahaImran" /> 
-</p>
 
 
 ## 🌐 Socials:
